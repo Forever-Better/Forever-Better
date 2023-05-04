@@ -205,6 +205,12 @@ Frontend Developer from Velikiy Novgorod 🧊
       </a>
       <br>PostgreSQL
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#Forever-Better-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="36" height="36" alt="nginx" />
+      </a>
+      <br>nginx
+    </td>
   </tr> 
 </table>
 
